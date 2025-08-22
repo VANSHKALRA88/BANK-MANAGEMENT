@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Vansh Kalra",
+        "age": 25,
+        "email": "vansh@example.com",
+        "pin": 1234,
+        "acc.no": "aB3X91@",
+        "balance": 5000
+    },
+    {
+        "name": "Riya Sharma",
+        "age": 30,
+        "email": "riya@example.com",
+        "pin": 5678,
+        "acc.no": "xY7P23$",
+        "balance": 8000
+    },
+    {
+        "name": "VANSH KALRA",
+        "age": 20,
+        "email": "Vanshkalra2406@gmail.com",
+        "pin": 3188,
+        "acc.no": "^V20m9c",
+        "balance": 0
+    },
+    {
+        "name": "VANSH KALRA",
+        "age": 20,
+        "email": "Vanshkalra@gmail.com",
+        "pin": 3188,
+        "acc.no": "6W$X0x7",
+        "balance": 0
+    },
+    {
+        "name": "VANSH KALRA",
+        "age": 20,
+        "email": "Vanshkalra2406@gmail.com",
+        "pin": 3188,
+        "acc.no": "2h*5H9n",
+        "balance": 0
+    }
+]
