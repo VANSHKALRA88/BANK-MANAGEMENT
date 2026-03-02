@@ -23,4 +23,3 @@ A backend-based Bank Management System built using Python and FastAPI that allow
 
 
 
-## 📂 Project Structure
